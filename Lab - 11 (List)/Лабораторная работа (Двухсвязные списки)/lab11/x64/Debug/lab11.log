@@ -1,0 +1,5 @@
+﻿  lab11.cpp
+C:\Users\Steept\source\repos\Лабораторные работы\Информатика\Лабораторная работа №11\lab11\lab11.cpp(134,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Steept\source\repos\Лабораторные работы\Информатика\Лабораторная работа №11\lab11\lab11.cpp(139,6): warning C4101: size2: неиспользованная локальная переменная
+C:\Users\Steept\source\repos\Лабораторные работы\Информатика\Лабораторная работа №11\lab11\lab11.cpp(145,13): warning C4101: buff: неиспользованная локальная переменная
+  lab11.vcxproj -> C:\Users\Steept\source\repos\Лабораторные работы\Информатика\Лабораторная работа №11\x64\Debug\lab11.exe
