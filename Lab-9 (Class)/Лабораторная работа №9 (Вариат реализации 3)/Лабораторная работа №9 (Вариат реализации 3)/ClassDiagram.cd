@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Error">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Error.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IndexError">
+    <Position X="2.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAQAAABAAAA=</HashCode>
+      <FileName>Error.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MaxSizeError">
+    <Position X="4.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAAAgAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>Error.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IndexError1">
+    <Position X="4.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAg=</HashCode>
+      <FileName>Error.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IndexError2">
+    <Position X="2.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAk=</HashCode>
+      <FileName>Error.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="List&lt;T&gt;">
+    <Position X="7" Y="0.5" Width="2.25" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Struct Name="List&lt;T&gt;::Node" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>List.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Class Name="List&lt;T&gt;::Iterator" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>List.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAACgAAAAAAAgIEAAAAQAAEAAAAAAAAgAAAAAgI=</HashCode>
+      <FileName>List.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
